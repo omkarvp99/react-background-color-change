@@ -1,5 +1,27 @@
 .App {
   text-align: center;
+  background-color:whitesmoke;
+  height: 100vh;
+  display: flex;
+  padding: 10px;
+}
+.App__leftSide{
+  display: flex;
+  flex: 0.2;
+  padding: 15px;
+  margin: 20px;
+  height: 100vh;
+}
+
+.sidebar__options{
+  margin-top: 5px;
+  padding: 30px;
+  justify-content: space-around;
+}
+.sidebar__options > Button {
+  color:black;
+  margin: 3px;
+  font-size: 10px;
 }
 
 .App-logo {

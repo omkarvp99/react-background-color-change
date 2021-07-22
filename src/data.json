@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "label":"Primary main",
+        "code":"#5E4FDB"
+    },
+    {
+        "id":2,
+        "label":"primary main - light",
+        "code":"#F3F2FC"
+    },
+    {
+        "id":3,
+        "label":"secondary main",
+        "code":"#1ABC9C"
+    },
+    {
+        "id":4,
+        "label":"negative",
+        "code":"#D64B4B"
+    },
+    {
+        "id":5,
+        "label":"dark red",
+        "code":"#852121"
+    },
+    {
+        "id":6,
+        "label":"light red",
+        "code":"#FFE3E3"
+    },
+    {
+        "id":7,
+        "label":"dark amber",
+        "code":"#C06801"
+    },
+    {
+        "id":8,
+        "label":"light amber",
+        "code":"#FFF7E3"
+    },
+    {
+        "id":9,
+        "label":"dark green",
+        "code":"#0E4316"
+    },
+    {
+        "id":10,
+        "label":"light green",
+        "code":"#E1EFE1"
+    },
+    {
+        "id":11,
+        "label":"pure black",
+        "code":"#000000"
+    },
+    {
+        "id":12,
+        "label":"pure white",
+        "code":"#FFFFFF"
+    },
+    {
+        "id":13,
+        "label":"pure black - 50% transparency",
+        "code":"#808080"
+    },
+    {
+        "id":14,
+        "label":"dark grey",
+        "code":"#D8D8D8"
+    },
+    {
+        "id":15,
+        "label":"grey",
+        "code":"#F0F0F0"
+    },
+    {
+        "id":16,
+        "label":"light background grey",
+        "code":"#F6F6F6"
+    }
+
+    
+]
